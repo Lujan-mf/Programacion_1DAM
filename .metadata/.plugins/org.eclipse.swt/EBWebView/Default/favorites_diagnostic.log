@@ -7,3 +7,22 @@
 2026-11-07 13:42:48.949: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-07 13:42:48.949: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-11-07 13:43:36.587: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-07 16:03:16.020: [INFO] CurrentProfilePath: C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-07 16:03:16.020: [INFO] Profiles total count: 1
+2026-11-07 16:03:16.020: [INFO] Profile: name=Perfil 1 path=C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-07T13:43:34.724Z
+2026-11-07 16:03:16.020: [INFO] LastUsedProfileDir: C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-07 16:03:16.020: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-07T13:43:34.724Z
+2026-11-07 16:03:16.020: [INFO] OnDoneLoading sync enabled: 0
+2026-11-07 16:03:16.020: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-07 16:03:16.020: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-07 16:03:16.020: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-07 16:03:22.581: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-07 16:09:03.329: [INFO] CurrentProfilePath: C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-07 16:09:03.329: [INFO] Profiles total count: 1
+2026-11-07 16:09:03.329: [INFO] Profile: name=Perfil 1 path=C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-07T16:03:21.954Z
+2026-11-07 16:09:03.329: [INFO] LastUsedProfileDir: C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-07 16:09:03.329: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\lujan\Documentos\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-07T16:03:21.954Z
+2026-11-07 16:09:03.329: [INFO] OnDoneLoading sync enabled: 0
+2026-11-07 16:09:03.329: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-07 16:09:03.329: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-07 16:09:03.329: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
