@@ -1,5 +1,8 @@
 package test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import tipos.Persona;
 import tipos.Sexo;
 
@@ -16,7 +19,28 @@ public class TestPersona {
 		p1.setNombre("Cristiano");
 		System.out.println(p1.getNombre());
 		
+		System.out.println(p1.getEdad());
+		
+		//es el unico metodo de java que se llama a si mismo que es lo mismo
+		//que pintar p1
+		System.out.println(p1.toString());
+		System.out.println(p1);
+		System.out.println(p2);
+		
+		List<Persona> lis = new ArrayList<>();
+		lis.add(p1);lis.add(p2);
+		lis.add(new Persona("Antonio", 25, 73.2, Sexo.HOMBRE));
+		lis.add(new Persona ("Lucia", 15, 53.2, Sexo.MUJER));
 		
 	}
-
+	
+	public static List<Persona> filtradoPorSexo(List<Persona> lis, Sexo s ){
+		List<Persona> res= new ArrayList<>();
+		for (Persona p : lis) {
+			if (p.getSexo()==s) {
+				res.add(p);
+			}
+		}
+		return res;
+	}
 }
