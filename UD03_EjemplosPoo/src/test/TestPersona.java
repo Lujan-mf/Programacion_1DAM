@@ -32,6 +32,7 @@ public class TestPersona {
 		lis.add(new Persona("Antonio", 25, 73.2, Sexo.HOMBRE));
 		lis.add(new Persona ("Lucia", 15, 53.2, Sexo.MUJER));
 		
+		
 	}
 	
 	public static List<Persona> filtradoPorSexo(List<Persona> lis, Sexo s ){
