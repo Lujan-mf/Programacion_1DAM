@@ -421,3 +421,5 @@
 {"logTime": "1110/100729", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1110/100746", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1110/100756", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1110/124437", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1110/124437", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
