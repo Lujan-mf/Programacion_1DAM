@@ -600,3 +600,5 @@
 {"logTime": "1113/112529", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1113/113426", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1113/113436", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1113/133212", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1113/133212", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
