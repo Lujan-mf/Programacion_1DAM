@@ -863,3 +863,5 @@
 {"logTime": "1117/110636", "level": "INFO", "message": "Preference changed: name=bookmark.storage_computation_last_update, new_value=\"13439387196988404\", source=unknown"}
 {"logTime": "1117/110636", "level": "INFO", "message": "Preference changed: name=account_tracker_service_last_update, new_value=\"13439387196988415\", source=unknown"}
 {"logTime": "1117/110646", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1117/111243", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1117/111243", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
