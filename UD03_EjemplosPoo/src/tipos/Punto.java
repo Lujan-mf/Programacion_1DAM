@@ -23,6 +23,6 @@ public class Punto {
 	
 	@Override
 	public String toString() {
-		return "("+ getX()+ ","+ getY()+ ")";
+		return "("+this.getX()+ ","+this.getY()+ ")";
 	}
 }
