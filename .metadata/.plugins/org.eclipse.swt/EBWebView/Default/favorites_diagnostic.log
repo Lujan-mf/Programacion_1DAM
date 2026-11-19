@@ -197,3 +197,12 @@
 2026-11-17 10:06:20.768: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-17 10:06:20.768: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-11-17 11:12:43.500: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-19 08:25:59.939: [INFO] CurrentProfilePath: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 08:25:59.939: [INFO] Profiles total count: 1
+2026-11-19 08:25:59.939: [INFO] Profile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T10:06:27.655Z
+2026-11-19 08:25:59.939: [INFO] LastUsedProfileDir: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-19 08:25:59.939: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-17T10:06:27.655Z
+2026-11-19 08:25:59.939: [INFO] OnDoneLoading sync enabled: 0
+2026-11-19 08:25:59.939: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-19 08:25:59.939: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-19 08:25:59.939: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
