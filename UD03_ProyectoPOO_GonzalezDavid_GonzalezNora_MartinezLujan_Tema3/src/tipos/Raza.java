@@ -1,5 +1,5 @@
 package tipos;
 
 public enum Raza {
-	CANICHETOY,CHIHUAHUA
+	CANICHETOY,CHIHUAHUA, LABRADOR
 }

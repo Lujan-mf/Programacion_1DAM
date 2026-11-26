@@ -305,3 +305,32 @@
 2026-11-24 07:57:00.041: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-11-24 07:57:00.042: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-24 07:57:00.042: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-26 08:44:59.946: [INFO] CurrentProfilePath: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:44:59.946: [INFO] Profiles total count: 1
+2026-11-26 08:44:59.946: [INFO] Profile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:44:59.946: [INFO] LastUsedProfileDir: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:44:59.946: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:44:59.946: [INFO] OnDoneLoading sync enabled: 0
+2026-11-26 08:44:59.946: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-26 08:44:59.946: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-26 08:44:59.946: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-26 08:45:30.105: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-26 08:46:44.449: [INFO] CurrentProfilePath: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:46:44.449: [INFO] Profiles total count: 1
+2026-11-26 08:46:44.449: [INFO] Profile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:46:44.449: [INFO] LastUsedProfileDir: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:46:44.449: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:46:44.449: [INFO] OnDoneLoading sync enabled: 0
+2026-11-26 08:46:44.449: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-26 08:46:44.449: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-26 08:46:44.449: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-26 08:50:31.373: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-26 08:50:38.378: [INFO] CurrentProfilePath: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:50:38.378: [INFO] Profiles total count: 1
+2026-11-26 08:50:38.378: [INFO] Profile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:50:38.378: [INFO] LastUsedProfileDir: C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-26 08:50:38.378: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\ml.martinez\Documents\GitHub\Programacion_1DAM\Programacion_1DAM\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-24T09:44:43.601Z
+2026-11-26 08:50:38.378: [INFO] OnDoneLoading sync enabled: 0
+2026-11-26 08:50:38.378: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-26 08:50:38.378: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-26 08:50:38.378: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
